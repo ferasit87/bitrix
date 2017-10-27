@@ -1,0 +1,24 @@
+div.mydiv
+{
+    width: 35%;
+}
+a.mylink{
+    margin-top: 15px;
+    padding: 0 20px;
+   
+   
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    background: #163f72;
+    height: 48px;
+    font-family: Circe;
+    font-weight: 300;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #ffffff;
+    border: none;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
